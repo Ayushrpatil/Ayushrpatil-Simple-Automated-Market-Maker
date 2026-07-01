@@ -1,0 +1,16 @@
+{
+  "name": "simple-automated-market-maker",
+  "version": "1.0.0",
+  "description": "Homework 4 Simple Automated Market Maker",
+  "private": true,
+  "scripts": {
+    "test": "hardhat test",
+    "coverage": "hardhat coverage"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.2",
+    "solidity-coverage": "^0.8.12"
+  }
+}
